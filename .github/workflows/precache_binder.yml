@@ -6,7 +6,7 @@ name: Build Binder Notebook Container
 on:
   push:
     branches:
-    - master
+    - master #teeeeest
 
 jobs:
   build:
